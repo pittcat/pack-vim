@@ -29,11 +29,6 @@
   name: "jiangmiao/auto-pairs"
   opt: false
 - 
-  category: "file-manager"
-  local: false
-  name: "jistr/vim-nerdtree-tabs"
-  opt: false
-- 
   category: fzf
   local: false
   name: junegunn/fzf
@@ -89,20 +84,9 @@
   name: scrooloose/nerdcommenter
   opt: false
 - 
-  category: "file-manager"
-  local: false
-  name: scrooloose/nerdtree
-  on: NERDTreeToggle
-  opt: true
-- 
   category: editing
   local: false
   name: "terryma/vim-multiple-cursors"
-  opt: false
-- 
-  category: "better-default"
-  local: false
-  name: "terryma/vim-smooth-scroll"
   opt: false
 - 
   category: "file-manager"

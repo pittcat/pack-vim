@@ -1,10 +1,11 @@
-* pack vim  
+### pack vim  
+-----------
 
-** About
+**About**
  Pack vim separates from [[https://github.com/liuchengxu/space-vim][space-vim]] and my vim config ,and it just adapts for server.
  It just is experimental.Happy hacking.
 
-** Usage
+**Usage**
    * Please install [[https://github.com/maralla/pack][pack]] firstly
    * Make sofe link and install plugins
      * ln -s $PWD/pack ~/.vim/.pack
