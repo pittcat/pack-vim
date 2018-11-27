@@ -7,7 +7,7 @@
 
 **Usage**
    * Please install [[https://github.com/maralla/pack][pack]] firstly
-   * Make sofe link and install plugins
+   * Make soft link and install plugins
      * ln -s $PWD/pack ~/.vim/.pack
      * ln -s $PWD/vimrc ~/.vimrc 
      * pack install
